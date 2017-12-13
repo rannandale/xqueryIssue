@@ -1,4 +1,4 @@
-#Githyub project demonstraiting the issue I'm having with xquery since camel started using saxon 9.7
+#Github project demonstrating the issue I'm having with xquery since camel started using saxon 9.7
 #Below is a copy of the mail sent to the camel users list
 
 Hi guys
